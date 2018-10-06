@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	background-color:pink;
+}
+
+.home {
+	text-align: center;
+	padding-top: 300px;
+}
+
+.left{
+	margin-right: 100px;
+}
+.right{
+	margin-left: 100px;
+}
+
+.date{
+	color:blue;
+}
